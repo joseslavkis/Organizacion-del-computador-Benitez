@@ -1,2 +1,2 @@
 # Organización-del-computador-Benitez
-##1C2024
+## 1C2024
